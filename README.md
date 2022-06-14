@@ -1,1 +1,1 @@
-# etch-a-sketch
+Browser version of Etch-a-Sketch for The Odin Project's JS Foundations course.
