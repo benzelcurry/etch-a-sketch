@@ -20,6 +20,11 @@ body {
     height: 500px;
 }
 
+#btn {
+    padding: 8px;
+    margin: 16px;
+}
+
 .header {
     font-size: 46px;
     padding: 16px;
